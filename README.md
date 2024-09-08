@@ -1,5 +1,3 @@
-# immersion-v2
-Assignment 
 <!DOCTYPE html>
 <html lang="en">
 <head>
